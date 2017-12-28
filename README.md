@@ -5,5 +5,5 @@ swift封装的一个比较牛叉的Button， 可设置圆角，可设置阴影�
 用法同UILine一致
 
 ## 效果如下图：
-
-![ 效果图 ](https://github.com/GTMYang/UICowButton/blob/master/cowButton.png)
+![ 效果图1 ](https://github.com/GTMYang/UICowButton/blob/master/cb.png)
+![ 效果图2 ](https://github.com/GTMYang/UICowButton/blob/master/cowButton.png)
