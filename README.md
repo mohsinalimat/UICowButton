@@ -6,4 +6,4 @@ swift封装的一个比较牛叉的Button， 可设置圆角，可设置阴影�
 
 ## 效果如下图：
 
-![效果图](https://github.com/GTMYang/UICowButton/edit/master/cowButton.png)
+![ 效果图 ](https://github.com/GTMYang/UICowButton/blob/master/cowButton.png)
